@@ -24,7 +24,7 @@ function startGame() {
 
   //Computer choose random word from word array
   computerGuess = word[Math.floor(Math.random() * word.length)];
-  console.log(computerGuess);
+  // console.log(computerGuess);
 
   //Split the word computerGuess
   guessLetter = computerGuess.split("");
