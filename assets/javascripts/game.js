@@ -1,13 +1,13 @@
 var word = [
-  "sholay",
+  "jaws",
   "lagaan",
-  "pyaasa",
-  "awara",
-  "anand",
+  "titanic",
+  "lion",
+  "a beautiful mind",
   "devdas",
-  "chakde",
-  "barfi",
-  "don"
+  "gladiator",
+  "snatch",
+  "yesterday"
 ];
 var wins = 0;
 var loss = 0;
